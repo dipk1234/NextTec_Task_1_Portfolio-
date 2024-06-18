@@ -17,7 +17,7 @@ CSS
  5. Contact form for inquiries and messages
 
 # Installation 
-#Bash
+    #Bash
     1. git clone (https://github.com/dipk1234/NextTec_Task_1_Portfolio-.git)
     2. You can open the index.html file in your web browser to view the website locally.
 # Usage 
