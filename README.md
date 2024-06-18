@@ -17,10 +17,11 @@ To view the code and run the website locally, follow these steps:
 
 # Clone this respiratory 
 
-bash
+#bash
+
 Copy code
-git clone https://github.com/your-username/your-repository.git
-Open the index.html file in your web browser to view the website locally.
+git clone (https://github.com/dipk1234/NextTec_Task_1_Portfolio-.git)
+You can open the index.html file in your web browser to view the website locally.
 
 Author
 Dipak
