@@ -12,7 +12,7 @@ Filterable portfolio gallery for showcasing projects
 Blog section with excerpts of blog posts and read more links
 Contact form for inquiries and messages
 Installation
-Clone the repository: git clone [https://github.com/your-username/your-repository.git](https://github.com/dipk1234/NextTec_Task_1_Portfolio-.git)
+Clone the repository: git clone (https://github.com/dipk1234/NextTec_Task_1_Portfolio-.git)
 You can open the index.html file in your web browser to view the website locally.
 Usage
 Navigate to different sections using the navigation menu.
