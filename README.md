@@ -5,23 +5,27 @@ This repository contains code for my portfolio website showcasing design work, s
 # Code Overview 
 HTML: Contains the structure and content of the website.
 CSS: Defines the styles and layout of the website.
-Technologies Used
-HTML
+# Technologies Used 
+HTML 
 CSS
 
-# Preview 
-You can preview the website here.
+# Features 
+ 1. Responsive design for all devices
+ 2. Navigation menu for easy access to different sections
+ 3. Filterable portfolio gallery for showcasing projects
+ 4. Blog section with excerpts of blog posts and read more links
+ 5. Contact form for inquiries and messages
 
 # Installation 
-To view the code and run the website locally, follow these steps:
+#Bash
+   ... git clone https://github.com/your-username/your-repository.git
+   ... You can open the index.html file in your web browser to view the website locally.
+# Usage 
 
-# Clone this respiratory 
+Navigate to different sections using the navigation menu.
+View projects in the portfolio section and filter by category (Web Design, Graphic Design, Photography).
+Read blog posts and click on "Read More" to view the full post.
+Contact me through the form in the Contact Me section.
 
-#bash
-
-Copy code
-git clone (https://github.com/dipk1234/NextTec_Task_1_Portfolio-.git)
-You can open the index.html file in your web browser to view the website locally.
-
-Author
+# Author 
 Dipak
